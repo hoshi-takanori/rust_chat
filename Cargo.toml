@@ -1,0 +1,6 @@
+[package]
+name = "rust_chat"
+version = "0.1.0"
+authors = ["Hoshi Takanori <hoshi-takanori@users.noreply.github.com>"]
+
+[dependencies]
